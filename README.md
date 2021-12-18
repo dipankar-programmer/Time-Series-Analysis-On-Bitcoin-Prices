@@ -1,5 +1,5 @@
 # Time-Series-Analysis-On-Bitcoin-Prices
-In this project I have tried to show the effect of Time Series Analysis on the prices of bitcoin 
+In this project I have tried to show the effect of Time Series Analysis on open system such as prices of bitcoin 
 ## What is a time series problem?
 
 Time series problems deal with data over time.
